@@ -18,4 +18,6 @@ An unsupervised learning and robust surface curvature measure for surface comple
    (vii) Biopython
    (viii) PyMesh
 
-
+```bash
+python -m pip install numpy scipy matplotlib regex pandas biopython pymesh jupyter signac signac-flow 
+```

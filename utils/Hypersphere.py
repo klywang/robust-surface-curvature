@@ -1,6 +1,5 @@
 from math import sqrt
 from numpy import linalg
-import networkx as nx
 from scipy.spatial import Delaunay, ConvexHull
 import re
 import itertools
